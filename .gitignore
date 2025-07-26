@@ -1,0 +1,14 @@
+# Ignorer le dossier d'environnement virtuel Python
+venv/
+
+# Ignorer les fichiers temporaires de Python
+__pycache__/
+*.py[cod]
+
+# Ignorer les dépendances Node.js
+frontend/node_modules/
+
+# Fichiers sensibles ou inutiles
+.env
+*.log
+.DS_Store
