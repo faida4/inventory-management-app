@@ -1,16 +1,15 @@
 # Inventory Management App
 
-Application web full stack pour la gestion des stocks, des catégories et des utilisateurs, développée avec Django, React et PostgreSQL.
-
+Application web full stack pour la gestion des produits et du stock disponible, développée avec Django, React et PostgreSQL.
 ---
 
 ## 🚀 Fonctionnalités
 
 - Ajout, modification, suppression de produits
-- Gestion des quantités, catégories, filtres
-- Interface utilisateur dynamique et responsive
-- Mise à jour automatique des stocks
-- Authentification des utilisateurs
+- Gestion des quantités et des catégories
+- Recherche et filtres dynamiques
+- Interface utilisateur responsive
+
 
 ---
 
