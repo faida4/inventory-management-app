@@ -1,28 +1,36 @@
-# Inventory Management App
+<!-- Banner -->
+<h1 align="center">📦 Inventory Management App</h1>
+<p align="center">
+  Application web <b>full-stack</b> pour gérer les produits, les stocks et les catégories.<br/>
+  <i>Django REST API • React • PostgreSQL</i>
+</p>
 
-Application web full stack pour la gestion des produits et du stock disponible, développée avec Django, React et PostgreSQL.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-REST-092E20?logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-15-4169E1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/License-MIT-000000"/>
+</p>
+
 ---
 
-## 🚀 Fonctionnalités
+## ✨ Fonctionnalités
 
-- Ajout, modification, suppression de produits
-- Gestion des quantités et des catégories
-- Recherche et filtres dynamiques
-- Interface utilisateur responsive
-
+- ➕ **CRUD complet** : créer, lire, mettre à jour, supprimer des produits
+- 🏷️ **Catégories** & gestion des **quantités** (stock in/out)
+- 📊 **Tableau de bord** (stock faible, produits récents, stats rapides)
+- 📱 **UI responsive** (mobile/tablette/desktop)
 
 ---
 
 ## 🧰 Stack technique
 
-| Frontend | Backend                | Base de données |
-|----------|------------------------|------------------|
-| React    | Django REST Framework  | PostgreSQL       |
-
-Autres outils : Django ORM, Axios, Bootstrap, Git
+| Frontend | Backend                    | Base de données | Outils |
+|:--------:|:---------------------------|:---------------:|:------|
+| React    | Django + Django REST Framework | PostgreSQL       | Axios, Django ORM, Bootstrap, Git |
 
 ---
-
 ## 📁 Structure du projet
 ``` 
 inventory-management-app/
